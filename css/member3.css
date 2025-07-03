@@ -1,0 +1,26 @@
+h1 {font-size: 24px;
+    text-align: center;}
+.flower { background-color: #eeeeff;
+          border-left: 3px solid #ccccff; 
+          padding: 10px;
+          margin: 10px 0;
+          color: darkviolet;  }
+.gate { background-color: #eeeeff;
+          border-left: 3px solid #ccccff; 
+          padding: 10px;
+          margin: 10px 0;
+          color: green;  }
+.detail { background-color: #eeeeff;
+          padding: 10px;
+          margin: 10px 0;
+          color: green;  }
+.charge { background-color: #eeeeff;
+          border-left: 3px solid #ccccff; 
+          padding: 10px;
+          margin: 10px 0;
+          color: goldenrod;  }
+.acess { background-color: #eeeeff;
+          border-left: 3px solid #ccccff; 
+          padding: 10px;
+          margin: 10px 0;
+          color: blue;  }
